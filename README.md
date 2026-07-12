@@ -9,13 +9,13 @@ AuraCinema AI is an AI-based movie recommendation system that helps users discov
 
 The application uses Flask as the backend framework and integrates the TMDB API to fetch real-time movie data. This project combines web development and recommendation concepts to create an interactive movie discovery experience.
 
-## 🌐  Project Background
+## Background
 
 With thousands of movies available online, users often spend a lot of time deciding what to watch. Traditional movie searches usually depend only on movie names or genres.
 
 AuraCinema AI aims to make movie discovery easier by recommending movies based on the user's mood and preferences. The project demonstrates the use of APIs, frontend technologies, backend development, and recommendation logic.
 
-## ✨ Features
+## Features
 
 - 😊 Mood-based movie recommendations
 - 🔍 Search movies by name
@@ -23,7 +23,7 @@ AuraCinema AI aims to make movie discovery easier by recommending movies based o
 - ⭐ Movie ratings and release dates
 - 🌌 Aurora-themed user interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Flask
@@ -32,7 +32,7 @@ AuraCinema AI aims to make movie discovery easier by recommending movies based o
 - JavaScript
 - TMDB API
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Install required libraries:
 pip install flask requests
@@ -43,7 +43,7 @@ python app.py
 3. Open in browser:
 http://127.0.0.1:5000⁠
 
-## ⚡ Challenges Faced
+## Challenges Faced
 
 1. Understanding Flask framework and connecting frontend with backend.
 2. Integrating the TMDB API to fetch real-time movie information.
@@ -52,17 +52,17 @@ http://127.0.0.1:5000⁠
 5. Designing an attractive and user-friendly interface.
 
 
-## 🔮 Future Improvements
+## Future Improvements
 
 🤖 AI chatbot for movie discussions and recommendations.
 📷 Facial emotion recognition to automatically detect user mood.
 ❤️ User login and favourite movie collection.
 🎬 Integration of movie trailers.
 
-## 📌 Project Purpose
+## Project Purpose
 
 AuraCinema AI recommends movies based on the user's mood and allows users to search for movies using real-time movie data from TMDB API.
 
-## 👩‍💻 Developed By
+## Developed By
 
 Neha Choudhary
