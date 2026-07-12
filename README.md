@@ -3,13 +3,13 @@
 
 An AI Mood Movie Recommender website built using Flask and TMDB API.
 
-## 📌 Project Summary
+## Summary
 
 AuraCinema AI is an AI-based movie recommendation system that helps users discover movies according to their current mood. Users can select their mood or search for a movie, and the system provides recommendations with posters, ratings, descriptions, and release information.
 
 The application uses Flask as the backend framework and integrates the TMDB API to fetch real-time movie data. This project combines web development and recommendation concepts to create an interactive movie discovery experience.
 
-## 🌐 Project Background
+## 🌐 Background
 
 With thousands of movies available online, users often spend a lot of time deciding what to watch. Traditional movie searches usually depend only on movie names or genres.
 
