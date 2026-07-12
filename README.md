@@ -1,4 +1,5 @@
 # 🎬 AuraCinema AI
+"Building AI course project"
 
 An AI Mood Movie Recommender website built using Flask and TMDB API.
 
