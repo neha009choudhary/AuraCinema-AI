@@ -9,7 +9,7 @@ AuraCinema AI is an AI-based movie recommendation system that helps users discov
 
 The application uses Flask as the backend framework and integrates the TMDB API to fetch real-time movie data. This project combines web development and recommendation concepts to create an interactive movie discovery experience.
 
-## 🌐 Background
+## 🌐  Project Background
 
 With thousands of movies available online, users often spend a lot of time deciding what to watch. Traditional movie searches usually depend only on movie names or genres.
 
