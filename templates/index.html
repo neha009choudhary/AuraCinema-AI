@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AuraCinema AI</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🎬 AuraCinema AI</h1>
+
+    <p>✨ Movies that match your mood with the power of AI.</p>
+
+<div class="search-box">
+
+    <input
+        type="text"
+        id="movie-search"
+        placeholder="🔍 Search any movie...">
+
+    <button onclick="searchMovie()">Search</button>
+
+</div>
+
+    <div class="moods">
+
+        <button onclick="getRecommendations('happy')">😊 Happy</button>
+
+        <button onclick="getRecommendations('sad')">😢 Sad</button>
+
+        <button onclick="getRecommendations('romantic')">😍 Romantic</button>
+
+        <button onclick="getRecommendations('excited')">😎 Excited</button>
+
+        <button onclick="getRecommendations('relaxed')">😌 Relaxed</button>
+
+    </div>
+
+    <div id="movie-container"></div>
+
+</div>
+
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+</html>
